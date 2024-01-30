@@ -1,0 +1,432 @@
+Jan 26, 2024 3:15:03 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 3:15:03 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 3:15:03 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 3:15:03 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 3:15:03 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 3:15:06 AM com.example.demo.CarQueue addCar
+INFO: Car added to the queue: ere
+Jan 26, 2024 3:15:08 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Car 2
+Jan 26, 2024 3:15:08 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Car 3
+Jan 26, 2024 3:15:08 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Car 4
+Jan 26, 2024 3:15:08 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Car 5
+Jan 26, 2024 3:15:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 3:15:08 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Car 1
+Jan 26, 2024 3:15:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 3:15:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 3:15:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 3:15:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 3:15:13 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Car 7
+Jan 26, 2024 3:15:13 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Car 6
+Jan 26, 2024 3:15:13 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: ere
+Jan 26, 2024 3:15:13 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Car 8
+Jan 26, 2024 3:15:13 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 3:15:13 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Car 9
+Jan 26, 2024 3:15:13 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Car 10
+Jan 26, 2024 3:15:13 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 3:15:13 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 3:15:13 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 3:18:49 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 3:18:49 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 3:18:49 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 3:18:49 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 3:18:49 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 3:18:49 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 3:18:49 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 3:18:49 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 3:18:49 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 3:18:49 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 3:18:49 AM com.example.demo.CarQueue addCar
+INFO: Car added to the queue: Test Car
+Jan 26, 2024 3:19:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 3:19:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 3:19:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 3:19:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 3:19:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 3:19:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 3:19:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 3:19:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 3:19:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 3:19:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 3:19:26 AM com.example.demo.CarQueue addCar
+INFO: Car added to the queue: Test Car
+Jan 26, 2024 3:19:44 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 3:19:44 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 3:19:44 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 3:19:44 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 3:19:44 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 3:19:44 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 3:19:44 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 3:19:44 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 3:19:44 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 3:19:44 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 3:19:44 AM com.example.demo.CarQueue addCar
+INFO: Car added to the queue: Test Car
+Jan 26, 2024 3:19:44 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Test Car
+Jan 26, 2024 3:32:09 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 3:32:09 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 3:32:09 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 3:32:09 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 3:32:09 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 3:32:09 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 3:32:09 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 3:32:09 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 3:32:09 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 3:32:09 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 3:32:09 AM com.example.demo.CarQueue addCar
+INFO: Car added to the queue: Test Car
+Jan 26, 2024 3:33:52 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 3:33:52 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 3:33:52 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 3:33:52 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 3:33:52 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 3:33:52 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 3:33:52 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 3:33:52 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 3:33:52 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 3:33:52 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 3:33:52 AM com.example.demo.CarQueue addCar
+INFO: Car added to the queue: Test Car
+Jan 26, 2024 3:34:02 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 3:34:02 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 3:34:02 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 3:34:02 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 3:34:02 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 3:34:02 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 3:34:02 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 3:34:02 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 3:34:02 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 3:34:02 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 3:34:02 AM com.example.demo.CarQueue addCar
+INFO: Car added to the queue: Test Car
+Jan 26, 2024 3:34:02 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Test Car
+Jan 26, 2024 3:36:48 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 3:36:48 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 3:36:48 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 3:36:48 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 3:36:48 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 3:36:48 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 3:36:48 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 3:36:48 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 3:36:48 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 3:36:48 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 3:36:55 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 3:36:55 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 3:36:55 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 3:36:55 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 3:36:55 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 3:36:55 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 3:36:55 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 3:36:55 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 3:36:55 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 3:36:55 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 3:36:55 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Return Test Car
+Jan 26, 2024 3:59:10 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 3:59:10 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 3:59:10 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 3:59:10 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 3:59:10 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 3:59:10 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 3:59:10 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 3:59:10 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 3:59:10 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 3:59:10 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 3:59:10 AM com.example.demo.CarQueue addCar
+INFO: Car added to the queue: Test Car
+Jan 26, 2024 3:59:10 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Test Car
+Jan 26, 2024 3:59:33 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 3:59:33 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 3:59:33 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 3:59:33 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 3:59:33 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 3:59:33 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 3:59:33 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 3:59:33 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 3:59:33 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 3:59:33 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 3:59:33 AM com.example.demo.CarQueue addCar
+INFO: Car added to the queue: Test Car
+Jan 26, 2024 3:59:33 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Test Car
+Jan 26, 2024 4:06:37 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 4:06:37 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 4:06:37 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 4:06:37 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 4:06:37 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 4:06:37 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 4:06:37 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 4:06:37 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 4:06:37 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 4:06:37 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 4:06:37 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Return Test Car
+Jan 26, 2024 4:07:12 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 4:07:12 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 4:07:12 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 4:07:12 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 4:07:12 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 4:07:12 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 4:07:12 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 4:07:12 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 4:07:12 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 4:07:12 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 4:07:12 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Return Test Car
+Jan 26, 2024 4:07:23 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 4:07:23 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 4:07:23 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 4:07:23 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 4:07:23 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 4:07:23 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 4:07:23 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 4:07:23 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 4:07:23 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 4:07:23 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 4:07:23 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Return Test Car
+Jan 26, 2024 4:07:40 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 4:07:40 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 4:07:40 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 4:07:40 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 4:07:40 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 4:07:40 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 4:07:40 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 4:07:40 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 4:07:40 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 4:07:40 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 4:07:40 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Return Test Car
+Jan 26, 2024 4:08:00 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 4:08:00 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 4:08:00 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 4:08:00 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 4:08:00 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 4:08:00 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 4:08:00 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 4:08:00 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 4:08:00 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 4:08:00 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 4:08:00 AM com.example.demo.CarQueue returnCar
+INFO: Car returned to the queue: Return Test Car
+Jan 26, 2024 4:08:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 4:08:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 4:08:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 4:08:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 4:08:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 4:08:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 4:08:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 4:08:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 4:08:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 4:08:08 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 4:08:08 AM com.example.demo.CarQueue addCar
+INFO: Car added to the queue: Remove Test Car
+Jan 26, 2024 4:08:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Jan 26, 2024 4:08:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Jan 26, 2024 4:08:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Jan 26, 2024 4:08:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Jan 26, 2024 4:08:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Jan 26, 2024 4:08:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Jan 26, 2024 4:08:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Jan 26, 2024 4:08:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Jan 26, 2024 4:08:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Jan 26, 2024 4:08:26 AM com.example.demo.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Jan 26, 2024 4:08:26 AM com.example.demo.CarQueue addCar
+INFO: Car added to the queue: Remove Test Car
